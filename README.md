@@ -16,3 +16,18 @@ Coğrafi Kısıtlama Aşma: Farklı bölgelerdeki içeriklere erişim imkanı su
 Gelişmiş Güvenlik: Kişisel bilgilerinizin korunmasını sağlar, online tehditlere karşı sizi korur.
 Hızlı ve Etkili: Hızlı bağlantılarla kesintisiz bir deneyim sunar.
 VZCHANHER ile dijital dünyada özgürce dolaşın ve çevrimiçi gizliliğinizi en üst düzeye çıkarın!
+*********************************************************************************************************************************************************************************************************************
+YÜKLEME KODU: 
+git clone https://github.com/ridvanyaglidere/VZCHANGER.git
+cd VZCHANGER
+cd VZCHANGER
+python3 vzchanger.py
+*********************************************************************************************************************************************************************************************************************
+DOWNLOAD CODE: 
+git clone https://github.com/ridvanyaglidere/VZCHANGER.git
+cd VZCHANGER
+cd VZCHANGER
+python3 vzchanger.py
+*********************************************************************************************************************************************************************************************************************
+
+
